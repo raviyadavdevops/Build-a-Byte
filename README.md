@@ -1,4 +1,4 @@
-# Continuous-Integration-and-Continuous-Delivery/Depolyment
+# Continuous-Integration-and-Continuous-Delivery/Depolyment Project
 
 # Overview
 This project aims to automate the software delivery pipeline, enhancing deployment frequency and reducing time to market. By implementing robust continuous integration and continuous deployment practices, we ensure high-quality code releases with minimal manual intervention.
